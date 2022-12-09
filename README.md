@@ -4,5 +4,5 @@
 </p>
 
 <p align "center">
-  <img width="10" src="https://img.shields.io/badge/language-lua-blue?style=plastic&logo=lua" alt="lua"> 
+  <img width="90" src="https://img.shields.io/badge/language-lua-blue?style=plastic&logo=lua" alt="lua"> 
 </p>
