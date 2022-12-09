@@ -1,4 +1,6 @@
-# Introduction
-Pulsive is a modern UI library built specifically for Roblox' custom programming language based off of Lua, LuaU.
+#  
+<p align="center">
+  <img width="360" src="https://i.imgur.com/dfDpz4I.png" alt="logo">
+</p>
 
 ## FAQ
