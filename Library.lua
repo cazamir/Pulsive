@@ -34,7 +34,7 @@ do
         position = UDim2.new(0.5, -250, 0.5, -300)
       end
       if size == nil then
-        size = UDim2.new(0, 500, 0, 600)
+        size = UDim2.new(0, 700, 0, 500)
       end
       if (getgenv().window) then
         getgenv().window:destroy()
